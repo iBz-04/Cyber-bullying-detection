@@ -1,4 +1,4 @@
-# Cyberbullying and Hate Detection Project
+# Cyberbullying & harassment Project
 
 ## Overview
 
