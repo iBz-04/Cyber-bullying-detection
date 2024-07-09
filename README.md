@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to detect cyberbullying and hate speech in tweets using Natural Language Processing (NLP) and machine learning techniques. The dataset used consists of tweets labeled as either hate speech or non-hate speech. The project involves data preprocessing, visualization, and building a classification model using Logistic Regression.
+The project aims to detect cyberbullying and hate speech in tweets using Natural Language Processing (NLP) and machine learning techniques. The dataset used consists of tweets labeled as either hate speech or non-hate speech. This project involves data preprocessing, visualization, and building a classification model using Logistic Regression.
 
 ## Requirements
 
